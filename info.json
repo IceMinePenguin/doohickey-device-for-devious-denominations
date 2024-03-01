@@ -1,0 +1,9 @@
+{
+    "created": "21:51, 29 February, 2024",
+    "metadata": {
+        "repo-name": "doohickey device with devious denominations",
+        "author": "Keilar",
+        "github": "the-girl-with-many-names on Github",
+        "purpose": "A webpage created for interfacing with a subdermal NTAG216 13.56MHz ISO14443A NFC chip"
+    }
+}
